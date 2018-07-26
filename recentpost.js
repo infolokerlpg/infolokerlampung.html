@@ -1,0 +1,1 @@
+<script src="https://cdn.rawgit.com/D-dig/js/gh-pages/sitemap1.js"></script><script src="https://www.infolokerlampung.net/feeds/posts/default?max-results=9999&amp;alt=json-in-script&amp;callback=loadtoc"></script>
